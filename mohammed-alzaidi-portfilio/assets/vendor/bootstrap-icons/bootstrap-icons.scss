@@ -2768,11 +2768,7 @@ $bootstrap-icons-map: (
 .bi-gear::before { content: map-get($bootstrap-icons-map, "gear"); }
 .bi-gem::before { content: map-get($bootstrap-icons-map, "gem"); }
 .bi-geo-alt-fill::before { content: map-get($bootstrap-icons-map, "geo-alt-fill"); }
-.bi-geo-alt::before {
-  content: map-get($bootstrap-icons-map, "geo-alt");
-  color: red;
-}
-
+.bi-geo-alt::before { content: map-get($bootstrap-icons-map, "geo-alt"); }
 .bi-geo-fill::before { content: map-get($bootstrap-icons-map, "geo-fill"); }
 .bi-geo::before { content: map-get($bootstrap-icons-map, "geo"); }
 .bi-gift-fill::before { content: map-get($bootstrap-icons-map, "gift-fill"); }

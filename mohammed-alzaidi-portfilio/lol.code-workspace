@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../lol"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mohammed-alzaidi-portfilio"
+	}
+}

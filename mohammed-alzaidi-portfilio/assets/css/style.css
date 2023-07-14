@@ -659,7 +659,6 @@ a:hover {
 }
 
 .hero .overlay-itro {
-  background-color: rgba(0, 0, 0, 0.6);
   position: absolute;
   top: 0;
   left: 0px;
@@ -761,6 +760,9 @@ a:hover {
 
 .skill-mf p{
   letter-spacing: 1.1px;
+  line-height: 1.8rem;
+  font-weight: 300;
+  font-size: 1.2rem;
 }
 
 
@@ -1026,7 +1028,7 @@ contact
 }
 
 .php-email-form button[type=submit]:hover {
-  background: #3393ff;
+  background: #000;
 }
 
 @keyframes animate-loading {
